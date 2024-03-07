@@ -2,7 +2,7 @@
 - 👀 I’m interested in mods in minecraft
 - 🌱 I am currently studying programming
 - 💞️ I want to collaborate on the development of games and mods in java 
-- 📫 How to reach me: discord -https://discord.gg/EZ4Ps4ZcMj ...
+- 📫 How to reach me: discord -https://discord.gg/EZ4Ps4ZcMj
 - 😄 Pronouns: he/он
 - ⚡ Fun fact: i'm stutter
 
