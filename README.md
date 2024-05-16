@@ -10,10 +10,12 @@
 
 [Youtube](https://youtube.com/@tpose_?si=VN1l5EG4w97gqYXh),[Telegram](https://t.me/TPose_team),[Discord](https://discord.gg/CwtFSKCZwJ)
 
-### MY PROJECTS:
+### My projects:
 + [tictac-toe](https://github.com/velozomX/tic-tac-toe)
  ## about it
-
++ it's a my first games on console
++ this games writed on java
++ According to the rules, in this game you need to put crosses on the indices until you win
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
