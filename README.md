@@ -11,10 +11,10 @@
 [Youtube](https://youtube.com/@tpose_?si=VN1l5EG4w97gqYXh),[Telegram](https://t.me/TPose_team),[Discord](https://discord.gg/CwtFSKCZwJ)
 
 ### my projects:
-**none**
++ [tictac-toe]()
 
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-+ sfsfsdfsf
+
