@@ -11,4 +11,4 @@
 [Youtube](https://youtube.com/@tpose_?si=VN1l5EG4w97gqYXh),[Telegram](https://t.me/TPose_team),[Discord](https://discord.gg/CwtFSKCZwJ)
 
 ### my projects:
-## none
+**none**
