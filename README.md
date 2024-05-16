@@ -4,7 +4,7 @@
 
 >i'm from Russia,
 >learn java with 2024 years.
->i plan learn javafx,Lightweight Java Game Library (LWJGL) and   > create my own game engine.
+>i plan learn javafx,Lightweight Java Game Library (LWJGL) and create my own game engine.
 
 ### **my social web:**
 
