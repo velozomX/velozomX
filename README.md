@@ -8,7 +8,7 @@
 
 ### **my social web:**
 
-[Youtube](https://youtube.com/@tpose_?si=VN1l5EG4w97gqYXh),[Telegram](https://t.me/buildApp12) 
+[Youtube](https://youtube.com/@is2.0-o5z?si=uAQGurEQYdZ9I2Dm),[Telegram](https://t.me/buildApp12) 
 
 ### My projects:
 + [tictac-toe](https://github.com/velozomX/tic-tac-toe)
