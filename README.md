@@ -2,9 +2,9 @@
 
 # about for me:
 
->i'm from Russia,
->learn java with 2024 years.
->i plan learn javafx,Lightweight Java Game Library (LWJGL) and create my own game engine.
+>i'm from Russia, 
+>learn godot and gdscript
+>i plan make my own games
 
 ### **my social web:**
 
